@@ -75,19 +75,19 @@ gradle clean test
 <a id="jenkins"></a>
 ## <img src="media/logo/Jenkins.svg" width="25" height="25"/></a> Запуск тестов в Jenkins
 
-<a target="_blank" href="https://jenkins.autotests.cloud/job/001-vikber_qa_guru_testUI/">Сборка в Jenkins</a>
+<a target="_blank" href="https://jenkins.autotests.cloud/job/23-vikber_qa_guru_testUI/">Сборка в Jenkins</a>
 <p align="center">
 
-<a href="https://jenkins.autotests.cloud/job/001-vikber_qa_guru_testUI/"><img src="media/screenshots/jenkins.jpg" alt="Jenkins"/></a>
+<a href="https://jenkins.autotests.cloud/job/23-vikber_qa_guru_testUI/"><img src="media/screenshots/jenkins.jpg" alt="Jenkins"/></a>
 
 > Сборка с параметрами позволяет перед запуском изменить параметры для сборки (путем выбора из списка или прямым указанием значения).
 > Клик по иконкам Allure TestOps и Allure Report позволяет перейти на просмотр страниц с тестовой документацией и отчетов.
 
-<a href="https://jenkins.autotests.cloud/job/001-vikber_qa_guru_testUI"><img src="media/screenshots/param.png" alt="Jenkins"/></a>
+<a href="https://jenkins.autotests.cloud/job/23-vikber_qa_guru_testUI"><img src="media/screenshots/param.png" alt="Jenkins"/></a>
 </p>
 
 <a id="allure"></a>
-## <img src="media/logo/Allure.svg" width="25" height="25"/></a> Отчеты в [Allure Report](https://jenkins.autotests.cloud/job/001-vikber_qa_guru_testUI/9/allure/)
+## <img src="media/logo/Allure.svg" width="25" height="25"/></a> Отчеты в [Allure Report](https://jenkins.autotests.cloud/job/23-vikber_qa_guru_testUI/9/allure/)
 
 ### Основное окно
 
