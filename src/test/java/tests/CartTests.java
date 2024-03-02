@@ -15,7 +15,7 @@ import pages.CartPage;
 public class CartTests extends TestBase {
     CartPage cartPage = new CartPage();
     Faker faker = new Faker();
-    String game = faker.esports().game();
+    String game = faker.overwatch().hero();
 
 
     @DisplayName("Добавление игры в корзину")
