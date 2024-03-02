@@ -2,16 +2,17 @@
   "base": {
     "logo": "",
     "project": "Steam project",
-    "environment": "Prod",
-    "comment": "Test results, @AnyNickName",
+    "environment": "Selenoid, Chrome/Firefox",
+    "comment": "Test notifications for Jenkins",
     "reportLink": "https://jenkins.autotests.cloud",
-    "language": "ru",
-    "allureFolder": "build/allure-report/",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "allure-report",
     "enableChart": true
   },
   "telegram": {
-    "token": "5654800343:AAGZxcASBvrHSEkiuo6B22YT483F-cDmipw",
-    "chat": "-925961414",
+    "token": "7015101485:AAFrfaqtW-3eqZIQZVkIEHxvqrjz1tJQpw0",
+    "chat": "-1002112494211",
     "replyTo": ""
   }
 }
