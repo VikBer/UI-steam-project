@@ -144,6 +144,7 @@ gradle clean test
 ## <img src="media/logo/Selenoid.svg" width="25" height="25"/></a> Пример прогона теста в Selenoid
 
 > Видео к прохождению теста "Добавление игры в корзину".
+> 
 <p align="center">
   <img title="Selenoid Video" src="media/video/d879d2ab0c4ea4a2f7871c48c2b2df0b.gif">
 </p>
